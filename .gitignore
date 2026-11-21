@@ -1,0 +1,21 @@
+# Compiled binaries
+*.exe
+*.bin
+*.out
+*.o
+*.class
+a.out
+
+# Editor and extension files
+.vscode/
+.idea/
+.cph/
+tempCodeRunnerFile.*
+__pycache__/
+
+# Local debug header (kept in the competitive-programming-library repo)
+deBUG.h
+
+# OS and Office files
+.DS_Store
+~$*
